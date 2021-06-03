@@ -1,5 +1,11 @@
 ### Hi there 👋
+</br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko)
+
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meucham11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **meucham11/meucham11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +21,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-</br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko)
 
-</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meucham11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
